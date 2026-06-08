@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_atualizar"
+        android:title="@string/menu_atualizar" />
+    <item
+        android:id="@+id/menu_log_envios"
+        android:title="@string/menu_log_envios" />
+    <item
+        android:id="@+id/menu_sair"
+        android:title="@string/menu_sair" />
+</menu>
