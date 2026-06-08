@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding_horizontal">24dp</dimen>
+    <dimen name="screen_padding_vertical">32dp</dimen>
+    <dimen name="screen_padding_bottom">40dp</dimen>
+    <dimen name="list_padding_vertical">16dp</dimen>
+    <dimen name="list_padding_bottom">32dp</dimen>
+    <dimen name="toolbar_extra_top">8dp</dimen>
+    <dimen name="bottom_action_margin">20dp</dimen>
+    <dimen name="card_item_spacing">14dp</dimen>
+</resources>

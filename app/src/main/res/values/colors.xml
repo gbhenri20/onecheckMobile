@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#0B1220</color>
+    <color name="surface_dark">#151D2E</color>
+    <color name="surface_input">#1C2638</color>
+    <color name="primary_blue">#3B82F6</color>
+    <color name="primary_blue_pressed">#2563EB</color>
+    <color name="accent_green">#22C55E</color>
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_hint">#64748B</color>
+    <color name="divider">#243044</color>
+    <color name="error_red">#F87171</color>
+    <color name="badge_inicial">#3B82F6</color>
+    <color name="badge_final">#8B5CF6</color>
+    <color name="badge_aceita">#22C55E</color>
+    <color name="badge_aguardando">#F59E0B</color>
+    <color name="card_stroke_aceita">#22C55E</color>
+    <color name="card_stroke_aguardando">#F59E0B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
